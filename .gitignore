@@ -5,6 +5,28 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Dependency directories
+node_modules/
+jspm_packages/
+.bin/
+
+# User-specific stuff:
+.idea/
+
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+.history/
+tsconfig.json
+jsconfig.json
+
+## Plugin-specific files:
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
 # Runtime data
 pids
 *.pid
